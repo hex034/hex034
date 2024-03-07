@@ -11,8 +11,7 @@
 <!-- Icons -->
 <div align="center">
   <a href="https://spgunk.eu.org" title="Leia Sobre mim">
-    <img alt="Meu Site" src="https://img.shields.io/badge/spgunk.eu.org- -red
-"></a>
+    <img alt="Meu Site" src="https://img.shields.io/badge/spgunk.eu.org- -red"></a>
   <a href="https://t.me/hex034" title="Me chame no telegram">
     <img src="https://img.shields.io/badge/Telegram- -blue" alt="Telegram" /></a>
   <a href="https://www.linkedin.com/in/lucas-enio-dev" title="Conecte Comigo">

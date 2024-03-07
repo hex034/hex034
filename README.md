@@ -30,7 +30,7 @@
 
  <img
   width="50%"
-  align="center"
+  align="right"
   src="https://github-readme-stats.vercel.app/api?username=hex034&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
 />
 <img

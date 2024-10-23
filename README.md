@@ -1,6 +1,6 @@
 ## hi Devs! :wave:
 <div align="center">
-<a href="https://app.rocketseat.com.br/me/devinio"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=devinio&type=card" width="350" alt="Lucas Silva 's Rocket ID"/></a>
+<a href="https://app.rocketseat.com.br/me/devinio"><img src="./assets/share.png" width="350" alt="Lucas Silva 's Rocket ID"/></a>
 <div>
 <img width="300"  src="https://github-readme-stats.vercel.app/api?username=hex034&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/> <br>
   <img width="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hex034&layout=compact&langs_count=6&theme=vue-dark"/>

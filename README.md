@@ -4,7 +4,6 @@
 <div>
 <img width="300"  src="https://github-readme-stats.vercel.app/api?username=hex034&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/> <br>
   <img width="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hex034&layout=compact&langs_count=6&theme=vue-dark"/>
-  
 </div>
 <div ><br>
   <img  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
